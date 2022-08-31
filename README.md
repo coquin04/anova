@@ -1,10 +1,9 @@
-# Python-Project-Template
+# Anova for cancer patients
 
-Example of how to organize a python project.
+Brief analisys of significative statistical difference between to diferent samples
 
 ### loading...
 
 ## External Links
 
-- [Explicit understandind of python package building 2](https://medium.com/analytics-vidhya/explicit-understanding-of-python-package-building-structuring-4ac7054c0749)
-- [The Hitchhiker's Guide to Python](https://docs.python-guide.org/writing/structure/)
+- [ANOVA](https://www.reneshbedre.com/blog/anova.html)
